@@ -1,0 +1,11 @@
+pid	c.vaf_mean	group
+P01	1.16	Pre
+P27	0.78	Pre
+P28	0.89	Pre
+P33	3.45	Pre
+P56	7.11	Pre
+P01	12.44	Post
+P27	8.61	Post
+P28	0.78	Post
+P33	2.01	Post
+P56	9.32	Post
