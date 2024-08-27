@@ -1,0 +1,3 @@
+count	FP+Pt	FP+Pt+Taxane	FP+Taxane
+vaf_high	8	7	0
+vaf_low	10	11	7

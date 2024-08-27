@@ -1,0 +1,7 @@
+plan	vaf_class	PatientCount
+FP+Pt	vaf_high	8
+FP+Pt	vaf_low	10
+FP+Pt+Taxane	vaf_high	7
+FP+Pt+Taxane	vaf_low	11
+FP+Taxane	vaf_high	0
+FP+Taxane	vaf_low	7
